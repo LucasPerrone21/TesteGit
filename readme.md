@@ -1,3 +1,3 @@
 #Cursinho de GIT
 
-Este é um repositório fasdfsdf dsfsd fsd hsftyudgadyut rfgyuadteste
+Este é um repositório teste
